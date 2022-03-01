@@ -1,0 +1,384 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Belgick boar. A new song, to the old tune of Chevy-Chase.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06866</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[26]</idno>
+            <idno type="EEBO-CITATION">99883605</idno>
+            <idno type="PROQUEST">ocm99883605</idno>
+            <idno type="VID">183232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183232)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Belgick boar. A new song, to the old tune of Chevy-Chase.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year MDCXCV. [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "God prosper long our noble King ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183232:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>The <hi>BELGICK BOAR.</hi> A New SONG,</head>
+            <opener>to the Old Tune of <hi>Chevy-Chaſe.</hi>
+            </opener>
+            <lg>
+               <l>GOD proſper long our noble King,</l>
+               <l>Our Hopes and Wiſhes all;</l>
+               <l>A fatal Landing late there did,</l>
+               <l>In <hi>Devonſhire</hi> befall.</l>
+            </lg>
+            <lg>
+               <l>To drive our Monarch from his Throne,</l>
+               <l>Prince <hi>Naſo</hi> took his way:</l>
+               <l>The Babe may rue that's newly born,</l>
+               <l>The landing at <hi>Torbay.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The ſtubborn <hi>Tarquin</hi> void of Grace,</l>
+               <l>A Vow to Hell does make,</l>
+               <l>To force his Father Abdicate,</l>
+               <l>And then his Crown to take.</l>
+            </lg>
+            <lg>
+               <l>And eke the Royal Infant-Prince,</l>
+               <l>To ſeize or drive away;</l>
+               <l>Theſe Tidings to our Sov'reign came,</l>
+               <l>In <hi>Whitehall</hi> where he lay.</l>
+            </lg>
+            <lg>
+               <l>Who unconcern'd at the Report,</l>
+               <l>At firſt would not believe,</l>
+               <l>That any of his Royal Race</l>
+               <l>Such Miſchiefs could conceive.</l>
+            </lg>
+            <lg>
+               <l>Till Time which ripens all Things, did</l>
+               <l>The Villany diſcloſe;</l>
+               <l>And of a Nephew and a Son</l>
+               <l>Forg'd out the worſt of Foes.</l>
+            </lg>
+            <lg>
+               <l>Who by Infernal Inſtinct led,</l>
+               <l>A mighty Fleet prepares,</l>
+               <l>His Father's Kingdom to invade,</l>
+               <l>And fill his Heart with Cares.</l>
+            </lg>
+            <lg>
+               <l>Our Gracious King deſires to know,</l>
+               <l>What his Pretenſions were,</l>
+               <l>And how without his Leave, he durſt</l>
+               <l>Preſume on Landing here.</l>
+            </lg>
+            <lg>
+               <l>Declaring what was deem'd amiſs,</l>
+               <l>Should ſoon amended be,</l>
+               <l>And whatſoe're ſhould be deſir'd,</l>
+               <l>He would thereto agree.</l>
+            </lg>
+            <lg>
+               <l>And for a ſpeedy Parl'ament,</l>
+               <l>He doth forthwith declare;</l>
+               <l>The <hi>Surly Brute</hi> not minding this;</l>
+               <l>Does to our Coaſt repair.</l>
+            </lg>
+            <lg>
+               <l>With ſeveral Thouſand <hi>Belgick Boars,</hi>
+               </l>
+               <l>All choſen Rogues for ſpight,</l>
+               <l>Join'd with ſome Rebels who from hence</l>
+               <l>And Juſtice had ta'ne flight.</l>
+            </lg>
+            <lg>
+               <l>Who arm'd with Malice &amp; with Hopes,</l>
+               <l>Soon threw themſelves on Shoar;</l>
+               <l>Crying, our Religion and our Laws</l>
+               <l>They came for to reſtore.</l>
+            </lg>
+            <lg>
+               <l>Then Declarations flew about</l>
+               <l>As thick as any Hail,</l>
+               <l>Which tho no <hi>Word</hi> was e're made good</l>
+               <l>Did mightily prevail.</l>
+            </lg>
+            <lg>
+               <l>We muſt be <hi>Papiſts</hi> or be <hi>Slaves,</hi>
+               </l>
+               <l>Was then the Gen'ral Cry;</l>
+               <l>But we'll do any thing to ſave</l>
+               <l>our Darling Liberty.</l>
+            </lg>
+            <lg>
+               <l>We'll all join with a Foreign Prince,</l>
+               <l>Againſt our Lawful King;</l>
+               <l>For he from all our fancy'd Fears,</l>
+               <l>Deliverance doth bring.</l>
+            </lg>
+            <lg>
+               <l>And if what he declares proves true,</l>
+               <l>As who knows but it may;</l>
+               <l>Were he the Devil of a Prince,</l>
+               <l>We'll rather him obey.</l>
+            </lg>
+            <lg>
+               <l>Then our Allegiance let's caſt off,</l>
+               <l>
+                  <hi>James</hi> ſhall no longer guide us;</l>
+               <l>And tho' the <hi>French</hi> would bridle us,</l>
+               <l>None but the <hi>Dutch</hi> ſhall ride us.</l>
+            </lg>
+            <lg>
+               <l>And thoſe who will not join with us,</l>
+               <l>In this Deſign ſo brave,</l>
+               <l>Their Houſes we'll pull down or burn,</l>
+               <l>And ſeize on what they have.</l>
+            </lg>
+            <lg>
+               <l>Theſe growing Evils to prevent,</l>
+               <l>Our King his Force does bend;</l>
+               <l>But amongſt thoſe he moſt did truſt,</l>
+               <l>He ſcarce had left one Friend.</l>
+            </lg>
+            <lg>
+               <l>O how my very Heart does bleed,</l>
+               <l>To think how baſely they</l>
+               <l>Who long had eaten Royal Bread</l>
+               <l>Their Maſter did betray!</l>
+            </lg>
+            <pb facs="tcp:183232:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <lg>
+               <l>And thoſe to whom he'd been moſt kind</l>
+               <l>And greateſt Favours ſhown<g ref="char:punc">▪</g>
+               </l>
+               <l>Appear'd to be the very firſt</l>
+               <l>Who ſought him to Dethrone.</l>
+            </lg>
+            <lg>
+               <l>O <hi>Compton! Langſton!</hi> and the reſt</l>
+               <l>Who baſely from him ran,</l>
+               <l>Your Names for ever be accurs'd</l>
+               <l>By ev'ry Engliſh Man.</l>
+            </lg>
+            <lg>
+               <l>Proud <hi>Tarquin</hi> he purſues his Game,</l>
+               <l>And quickly makes it plain,</l>
+               <l>He came not to redreſs our Wrongs,</l>
+               <l>But <hi>England</hi>'s Crown to gain.</l>
+            </lg>
+            <lg>
+               <l>And o're his Father's mangled Fame,</l>
+               <l>His Chariot proudly drives,</l>
+               <l>Whilſt he, Good Man, altho' in vain,</l>
+               <l>To pacifie him ſtrives.</l>
+            </lg>
+            <lg>
+               <l>But he ingrateful! wou'd not hear</l>
+               <l>His Offers tho' ſo kind,</l>
+               <l>But caus'd the noble Meſſenger</l>
+               <l>Forthwith to be confin'd.</l>
+            </lg>
+            <lg>
+               <l>He brings his Naſty Croaking Crew</l>
+               <l>Unto his Father's Gate,</l>
+               <l>Diſmiſt his own, makes them his Guard,</l>
+               <l>Oh diſmal turn of Fate!</l>
+            </lg>
+            <lg>
+               <l>ſo at Midnight drives him thence,</l>
+               <l>O horrid impious thing!</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere ſuch Affronts e're offer'd to</l>
+               <l>A <hi>Father</hi> and a <hi>King!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A King ſo <hi>Great!</hi> ſo <hi>Good!</hi> ſo <hi>Juſt!</hi>
+               </l>
+               <l>So <hi>Merciful</hi> to all!</l>
+               <l>His Vertue was his only Fault.</l>
+               <l>And that which caus'd his Fall.</l>
+            </lg>
+            <lg>
+               <l>Who now is forc'd his Life to ſave</l>
+               <l>To fly his native Land,</l>
+               <l>And leave his Scepter to be graſp'd</l>
+               <l>By an ungracious Hand.</l>
+            </lg>
+            <lg>
+               <l>Hells Journey-men are ſtreight conven'd</l>
+               <l>Who rob God of his Pow'r,</l>
+               <l>Set up themſelves a Stork-like King,</l>
+               <l>the Subjects to devour.</l>
+            </lg>
+            <lg>
+               <l>And to ſecure his Lawleſs Throne,</l>
+               <l>Now give him all we have,</l>
+               <l>And make each Free-born <hi>Engliſh</hi> Heart</l>
+               <l>Become a <hi>Belgick</hi> Slave.</l>
+            </lg>
+            <lg>
+               <l>The Bar, the Pulpit, and the Preſs</l>
+               <l>Nefariouſly combine,</l>
+               <l>To cry up an uſurped Pow'r,</l>
+               <l>And ſtamp it right Divine.</l>
+            </lg>
+            <lg>
+               <l>Our Loyalty we muſt melt down,</l>
+               <l>And have it coin'd anew,</l>
+               <l>For what was current hereofore,</l>
+               <l>Will now no longer do.</l>
+            </lg>
+            <lg>
+               <l>Our Fetters we our Selves put on,</l>
+               <l>Our Selves, our Selves do bubble;</l>
+               <l>Our Conſcience a meer Pack-horſe make</l>
+               <l>Which now muſt carry double.</l>
+            </lg>
+            <lg>
+               <l>O <hi>England!</hi> when to future Times</l>
+               <l>Thy Story ſhall be known</l>
+               <l>How will they bluſh to think what Crimes</l>
+               <l>Their Anceſtors have done.</l>
+            </lg>
+            <lg>
+               <l>But after all, what have we got</l>
+               <l>By this our dear-bought King?</l>
+               <l>Why that our Scandal and Reproach</l>
+               <l>Throughout the World does ring.</l>
+            </lg>
+            <lg>
+               <l>That our Religion, Liberties,</l>
+               <l>And Laws we held ſo dear,</l>
+               <l>Are more invaded ſince this Change</l>
+               <l>Than ever yet they were.</l>
+            </lg>
+            <lg>
+               <l>Our Coffers drain'd, our Coin impair'd,</l>
+               <l>That little that remains;</l>
+               <l>Our <hi>Perſons ſeiz'd,</hi> nay <hi>Thoughts arraign'd,</hi>
+               </l>
+               <l>Our Freedom now is Chains.</l>
+            </lg>
+            <lg>
+               <l>Our Traffick ruin'd, Shipping loſt,</l>
+               <l>Our Traders moſt undone;</l>
+               <l>Our braveſt Heroes ſacrific'd,</l>
+               <l>Our ancient Glory gone.</l>
+            </lg>
+            <lg>
+               <l>A Fatal Coſtly War entail'd,</l>
+               <l>On this unhappy Iſle;</l>
+               <l>Unleſs above what we deſerve,</l>
+               <l>Kind Heaven at laſt does ſmile.</l>
+            </lg>
+            <lg>
+               <l>And bring our injur'd Monarch Home,</l>
+               <l>And place Him on his Throne;</l>
+               <l>And to Confuſion bring his Foes</l>
+               <l>Which <hi>God grant may be ſoon.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> printed in the Year MDCXCV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
